@@ -1,0 +1,8 @@
+{
+  "name": "Platinum EV Global",
+  "description": "Premium electric vehicle listings and inventory for Platinum EV Global. Electric Mobility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
